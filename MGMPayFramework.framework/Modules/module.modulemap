@@ -1,0 +1,6 @@
+framework module MGMPayFramework {
+  umbrella header "MGMPayFramework.h"
+
+  export *
+  module * { export * }
+}
